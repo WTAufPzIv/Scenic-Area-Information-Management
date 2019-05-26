@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Edge.cpp
+  MGraph.cpp
+e:\my_code\实验课\数据结构课程设计\scenic area information management\scenic area information management\mgraph.cpp(357): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_code\实验课\数据结构课程设计\scenic area information management\scenic area information management\mgraph.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_code\实验课\数据结构课程设计\scenic area information management\scenic area information management\mgraph.cpp(373): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_code\实验课\数据结构课程设计\scenic area information management\scenic area information management\mgraph.cpp(399): warning C4018: “<”: 有符号/无符号不匹配
+  path.cpp
+  Scenic Area Information Management.cpp
+e:\my_code\实验课\数据结构课程设计\scenic area information management\scenic area information management\scenic area information management.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Scenic Area Information Management.vcxproj -> E:\my_code\实验课\数据结构课程设计\Scenic Area Information Management\Debug\Scenic Area Information Management.exe
